@@ -1,0 +1,26 @@
+.topic{
+  text-align : center
+}
+
+.num{
+  text-align : center;
+  font-size: 30px;
+  color:brown;
+}
+
+.box{
+  display: flex;
+  gap:15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.b1,.b2,.b3{
+  font-size: 20px;
+  padding: 5px;
+}
+
+.b1:hover, .b2:hover , .b3:hover {
+  color: white;
+  background-color: black;
+}
